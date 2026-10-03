@@ -1,7 +1,7 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=KNOW THYSELF;FREE YOUR MIND; COMMIT)](https://git.io/typing-svg)
+
 <h1 align="center">Hi 👋, I'm Neyo Nkomo</h1>
 <h3 align="center">A developer from Johannesburg</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neyonkomo" alt="neyonkomo" /></a> </p>
 
 - 🔭 I’m currently working on **A smart student card ID and smart water filter and dispenser for Rhodes University students**
 
