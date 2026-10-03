@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=KNOW THYSELF;FREE YOUR MIND; COMMIT)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=KNOW THYSELF;FREE YOUR MIND; COMMIT)](https://git.io/typing-svg)
 
 <h1 align="center">Hi 👋, I'm Neyo Nkomo</h1>
 <h3 align="center">A developer from Johannesburg</h3>
