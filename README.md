@@ -1,8 +1,10 @@
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=F70000&width=435&lines=FREE+YOUR+MIND;KNOW+THYSELF;AND+COMMIT." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=F70000&width=435&lines=FREE+YOUR+MIND;KNOW+THYSELF;AND+COMMIT." alt="Typing SVG" /></a>
 </div>
 
-
+<div align="center">
+  <img src="ChatGPT Image Oct 4, 2026, 01_19_34 PM.png" alt="Toji" />
+</div>
 
 <h1 align="center">Hi 👋, I'm Neyo Nkomo</h1>
 <h3 align="center">A developer from Johannesburg</h3>
@@ -15,7 +17,7 @@
 
 - 👯 I’m looking to collaborate on **Google (Deepmind)**
 
-- 💬 Ask me about **Which sport is my favourite**
+- 💬 Ask me about **Who is my favorite boxer**
 
 - 📫 How to reach me **bhekinkomo32@gmail.com**
 
